@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630575795043",
+    "project_id": "image-croper-7e809",
+    "storage_bucket": "image-croper-7e809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630575795043:android:7499b41abd1f600c4b2156",
+        "android_client_info": {
+          "package_name": "com.mhdarslan.imagecroper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXoS6JRT8PTgAzhQu7kYI1hw5qB8xI-hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
