@@ -1,14 +1,14 @@
 package com.mhdarslan.imagecroper.model;
 
-public class DataModel {
+public class DataClass {
     private String imageURL, caption;
 
-    public DataModel(String imageURL, String caption) {
+    public DataClass(String imageURL, String caption) {
         this.imageURL = imageURL;
         this.caption = caption;
     }
 
-    public DataModel() {
+    public DataClass() {
     }
 
     public String getImageURL() {
