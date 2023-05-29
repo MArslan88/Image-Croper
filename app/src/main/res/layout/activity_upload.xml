@@ -33,7 +33,7 @@
         android:orientation="horizontal"
         app:layout_constraintTop_toBottomOf="@+id/uploadImage">
 
-        <TextView
+        <EditText
             android:id="@+id/uploadCaption"
             android:layout_width="0dp"
             android:layout_height="60dp"
