@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         fab.setOnClickListener(v -> {
-            startActivity( new Intent(this, UploadActivity.class));
+            startActivity( new Intent(this, ImagePickerActivity.class));
             finish();
         });
 
